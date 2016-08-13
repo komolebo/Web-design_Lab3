@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<root>
+  <message>
+    <date> 24.12.2005</date>
+    <name>It's my first message!</name>
+    <text>I wanna die</text>
+  </message>
+  <message>
+    <date> 24.12.2015</date>
+    <name>It's my second message!</name>
+    <text>I wanna live</text>
+  </message>
+  <message>
+    <date>6.3.2015p</date>
+    <name>Record #3</name>
+    <text>This message is full of happiness.</text>
+  </message>
+  <message>
+    <date>12.4.2015p</date>
+    <name>Record #4 </name>
+    <text>This message is deadly sad.</text>
+  </message>
+  <message>
+    <date>21.4.2015p</date>
+    <name>Record with Valera</name>
+    <text>Hi. I'm Valera. Pretty nice!</text>
+  </message>
+</root>

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Dairy</title>
+    <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
+    <script type="text/javascript" src="jquery/jquery-latest.min.js"></script>
+    <link type="text/css" media="all" rel="stylesheet" href="css/main.css" />
+
+    <script>
+        $.getScript("js/code.js");
+    </script>
+
+</head>
+
+<body>
+    <div id="headers">
+        <span id="add_rec"><input type="button" value="Add record" onclick="addRecord('', '')"/></span>
+        <span id="rem_rec"><input type="button" value="Remove record" /></span>
+        <span id="save_to_database"><input type="button" value="Save database" onclick="savePHP()" /></span>
+    </div>
+
+    <div id="all">
+        <div id="topics"></div>
+        <div id="message"></div>
+    </div><br/>
+
+    <div id="rest"></div>
+</body>
+</html> 

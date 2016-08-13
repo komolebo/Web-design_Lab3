@@ -1,0 +1,27 @@
+#headers{
+    border-bottom: groove;
+}
+#add_rec, #rem_rec, #save_to_database{
+    padding: 20px 20px 20px 20px;
+}
+
+
+p{
+    font-size: 12px;
+    margin: 5px 0 0 0;
+    #border-bottom: groove;
+}
+
+
+#topics{
+    margin: 20px 400px 300px 10px;
+    float: left;
+}
+
+#txtarea{
+    resize: none;
+}
+
+#rest{
+    float: left;
+}
